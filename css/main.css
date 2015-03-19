@@ -1,0 +1,45 @@
+@font-face { 
+	font-family: 'Punjabi'; 
+	src: url('ghwadh_6.ttf') format('truetype'); 
+}
+
+#counterBox {
+	padding-top: 20px;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 400px;
+	height: 300px;
+	border: 0px solid gray;
+	
+}
+
+#name {
+	font-size:30px;
+}
+
+#number {
+	font-family: 'Punjabi';
+	font-size:70px;
+ }
+
+#buttons {
+	margin-top: 50px;
+}
+#counterBox #add {
+ 	width: 50px;
+	height:20px;
+	color: #FFF;
+	background-color: #FF6600;
+	padding:10px;
+	border:1px solid gray;
+}
+
+#counterBox #subtract {
+	width: 50px;
+	height:20px;
+	padding:10px;
+	color:#FFF;
+	background-color: #FF6600;
+	border:1px solid gray;
+}
